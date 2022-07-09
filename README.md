@@ -10,7 +10,7 @@ Simplify your life when using prismarin scaffolds and tools
 
 ## Installation
 
-Download latest [release](/releases) and add it your PATH
+Download latest [release](https://github.com/prismarin-network/prismarin-cli/releases) and add it your PATH
 <br>
 
 Manually (if you have go installed):
