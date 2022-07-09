@@ -2,6 +2,8 @@
 
 Simplify your life when using prismarin scaffolds and tools
 
+<img src="screenshot.png" />
+
 ## Prerequisite
 
  - Go v1.18 (if you want to build it yourself)
