@@ -15,6 +15,22 @@ func Init() {
 			Name:        "minimal",
 			DownloadUrl: "minimal.zip",
 		},
+		TsukiScaffold{
+			Name:        "with-tailwind",
+			DownloadUrl: "with-tailwind.zip",
+		},
+		TsukiScaffold{
+			Name:        "with-tailwind-mantine",
+			DownloadUrl: "with-tailwind-mantine.zip",
+		},
+		TsukiScaffold{
+			Name:        "with-tailwind-daisyui",
+			DownloadUrl: "with-tailwind-daisyui.zip",
+		},
+		TsukiScaffold{
+			Name:        "with-tailwind-flowbite",
+			DownloadUrl: "with-tailwind-flowbite.zip",
+		},
 	}
 	Scaffolds["nextjs"] = nextjs
 }

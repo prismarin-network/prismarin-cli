@@ -44,7 +44,7 @@ func (t TsukiScaffold) Download() {
 	fmt.Println("Retrieved latest tag: " + release.TagName)
 	fmt.Println("Starting download request")
 	out, err := os.Create(t.DownloadUrl)
-	resp, err := http.Get("https://github.com/zoey-kaiser/nextjs-ts-scaffolds/releases/download/1.2.0/minimal.zip")
+	resp, err := http.Get("https://github.com/zoey-kaiser/nextjs-ts-scaffolds/releases/download/" + release.TagName + "/" + t.DownloadUrl)
 	io.Copy(out, resp.Body)
 
 	out.Close()
