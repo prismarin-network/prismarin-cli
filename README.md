@@ -1,6 +1,6 @@
 # Prismarin CLI
 
-Simplify your life when using prismarin services and tools
+Simplify your life when using prismarin scaffolds and tools
 
 ## Prerequisite
 
@@ -8,7 +8,7 @@ Simplify your life when using prismarin services and tools
 
 ## Installation
 
-Download latest [release](/prismarin-network/prismarin-cli/releases/latest) and add it your PATH
+Download latest [release](/releases) and add it your PATH
 <br>
 
 Manually (if you have go installed):
