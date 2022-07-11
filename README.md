@@ -15,7 +15,7 @@ Download latest [release](https://github.com/prismarin-network/prismarin-cli/rel
 
 Manually (if you have go installed):
 ```
-git clone https://github.com/ReaperMaga/hanime-cli.git
+git clone https://github.com/prismarin-network/prismarin-cli.git
 go mod download
 go build
 go install
